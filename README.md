@@ -108,11 +108,6 @@ jupyter notebook CNN_From_Scratch.ipynb
 - How hyperparameter choices — learning rate, kernel size, pooling size — affect convergence
 
 ---
-
-## About
-
-**Muzzamil Rasully**
-BSc Mathematics, Queen Mary University of London
 [LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
 
 ---
